@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BSc in Elictric Computer Engineering"
+  course = "BSc in Electrical & Computer Engineering"
   institution = "University of Toronto"
   year = 2021
  
