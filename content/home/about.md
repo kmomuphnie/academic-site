@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2020-09-30T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -12,6 +12,8 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
+    "Distributed System",
+    "Natural Language Processing",
     "Information Retrieval"
   ]
 
@@ -19,6 +21,7 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in Electrical & Computer Engineering"
+  minor = "Artificial Intelligence"
   institution = "University of Toronto"
   year = 2021
  
