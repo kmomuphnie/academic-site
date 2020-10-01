@@ -20,8 +20,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BSc in Electrical & Computer Engineering"
-  minor = "Artificial Intelligence"
+  course = "BSc in Electrical & Computer Engineering with minor in Artificial Intelligence"
   institution = "University of Toronto"
   year = 2021
  
@@ -29,4 +28,4 @@ weight = 5
 
 # Biography
 
-Spike Cui is third year University of Toronto student 
+Spike Cui is a senior Computer Engineering student of University of Toronto, looking for full-time/internship opportunities in software development. Strong interests in cloud platform, deep learning and distributed systems. Believer of the power of coding. 
