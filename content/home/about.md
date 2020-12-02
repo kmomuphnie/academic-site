@@ -28,4 +28,4 @@ weight = 5
 
 # Biography
 
-Spike Cui is a senior Computer Engineering student of University of Toronto, looking for full-time/internship opportunities in software development. Strong interests in cloud platform, deep learning and distributed systems. Believer of the power of coding. 
+Spike Cui is a senior Computer Engineering student of University of Toronto. Strong interests in cloud platform, deep learning and distributed systems. Believer of the power of coding. 
